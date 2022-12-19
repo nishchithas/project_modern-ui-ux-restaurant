@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/project_modern-ui-ux-restaurant/static/css/main.674a4aa8.css",
+    "main.js": "/project_modern-ui-ux-restaurant/static/js/main.f020ef21.js",
+    "static/media/meal.mp4": "/project_modern-ui-ux-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/project_modern-ui-ux-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/project_modern-ui-ux-restaurant/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/project_modern-ui-ux-restaurant/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/project_modern-ui-ux-restaurant/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/menu.png": "/project_modern-ui-ux-restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/project_modern-ui-ux-restaurant/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/project_modern-ui-ux-restaurant/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/project_modern-ui-ux-restaurant/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/project_modern-ui-ux-restaurant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/project_modern-ui-ux-restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/project_modern-ui-ux-restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/chef.png": "/project_modern-ui-ux-restaurant/static/media/chef.63425c4b8de7d8c7a915.png",
+    "static/media/G.png": "/project_modern-ui-ux-restaurant/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/sign.png": "/project_modern-ui-ux-restaurant/static/media/sign.0073d51b182b079db0f5.png",
+    "static/media/logo.png": "/project_modern-ui-ux-restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/project_modern-ui-ux-restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/project_modern-ui-ux-restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/project_modern-ui-ux-restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/project_modern-ui-ux-restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/project_modern-ui-ux-restaurant/index.html",
+    "static/media/spoon.svg": "/project_modern-ui-ux-restaurant/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
+    "main.674a4aa8.css.map": "/project_modern-ui-ux-restaurant/static/css/main.674a4aa8.css.map",
+    "main.f020ef21.js.map": "/project_modern-ui-ux-restaurant/static/js/main.f020ef21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.674a4aa8.css",
+    "static/js/main.f020ef21.js"
+  ]
+}
