@@ -47,3 +47,7 @@
         width: 80%;
     }
 }
+
+.app__wrapper_img img{
+    border: 15px solid #dcca87;
+}
